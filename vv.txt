@@ -1,0 +1,129 @@
+	<div class="fotr">	
+					<div class="all5">
+					
+						<div class="part5-all" >
+							<h4> About us </h4>
+							<div>
+								<p id="import"> I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur. I am text block. Click edit 	button to change this text. Lorem ipsum dolor sit amet, 		consectetur.
+								</p>
+								<p> We are the champions! We are the most amazing theme of all    time, yeah.
+								</p>
+							</div>
+						</div>
+	 	 
+						<div class="part5-all">
+							<h4> Why we are special ? </h4>
+							<div>
+								<ul>
+									<li class="border-list">Our magical recipe.</li>
+									<li class="border-list">We care about environment.</li>
+									<li class="border-list">We are trusted by hundreds of clients.</li>
+									<li class="border-list">Social media loves us!</li>
+									<li class="border-list">This list is super easy to create.</li>
+								</ul>
+							</div>
+						</div>
+						
+						<div class="part5-all">
+							<h4> Opening Hours </h4>
+							<div>
+								<ul>
+									<li class="border-list">Monday 10AM - 9PM</li>
+									<li class="border-list">Tuesday 10AM - 9PM</li>
+									<li class="border-list">Wednesday 10AM - 9PM</li>
+									<li class="border-list">Thursday 10AM - 10PM</li>
+									<li class="border-list">Friday 10AM - 10PM</li>
+									<li class="border-list">Weekends 10AM - 11PM</li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="part5-all">
+							<h4> Contact Details </h4>
+							<div> 
+								
+								<ul>
+									<li class="border-list"<span> Manchester Road 123-78B, Silictown 7854MD, Great Country</span>
+									</li>
+									<li class="border-list"><a src="#">  + 46 123 456 789</a></li>
+									<li class="border-list"> <a src="#"> hello@sitename.com </a> </li>
+									<li class="border-list"><a src="#"> http://www.sitename.com </a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="clr"></div>
+				
+					 </div>
+		
+				</div>
+		           <!--     part 7                  -->
+				   
+				   <div class="end"> 
+						<div class="end-img">
+							<img class="im-end" src="images/bakery-light-1.png">
+						</div>
+						<p>  Copyright 2017. All rights reserved. </p>
+						
+				   </div>
+
+
+
+
+                                         Css....................................................
+
+/*  part 6    */
+
+.fotr{
+	
+		background-color:  #403d38 ;	
+}
+
+.all5{
+	width    :98%;
+	margin   :0px auto;
+	padding  :60px 0px;
+	color    :white ;
+}
+
+.part5-all{
+
+	width           :  22%;
+	display         :  inline-block ;
+	padding         :0px 10px;
+	float           : left;
+	font-size       :  15px  ;
+	line-height     :1.86em;
+}
+
+
+h4{
+	font-size    :18px;
+	margin-bottom: 25px;
+	
+}
+
+#import{
+	margin-bottom:20px;
+}
+
+.border-list{
+	border-bottom  :  1px rgba(255,255,255,0.05) solid;
+	padding-left   :5px;
+
+}
+
+.end{
+	background-color: #353330 ;
+	text-align      :center;
+	padding         :50px 0px;
+	
+	
+}
+
+.im-end{
+	width:350px;
+	margin-bottom  :25px;
+}
+
+
+
